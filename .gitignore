@@ -1,0 +1,26 @@
+# Local testing files
+start.ps1
+start_ssl_server.ps1
+*.ps1
+
+# Temporary files
+temp_deployment/
+image_urls.txt
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Node modules (if any)
+node_modules/
