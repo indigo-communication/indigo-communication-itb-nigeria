@@ -1,0 +1,164 @@
+===============================================
+ITB NIGERIA - WEBUZO/NAMECHEAP DEPLOYMENT GUIDE
+===============================================
+
+DEPLOYMENT PACKAGE DETAILS
+--------------------------
+File Name: itbng_webuzo_deployment.zip
+File Size: 124.03 MB
+Created:   February 21, 2026
+
+PACKAGE CONTENTS
+----------------
+✓ 29 HTML Pages (all production-ready with Google Analytics & HTTPS enabled)
+✓ Assets Folder (CSS, JavaScript, fonts)
+✓ Images Folder (545+ high-quality images)
+✓ .htaccess (Apache server configuration)
+✓ contact_handler.php (Contact form processor)
+
+HTML PAGES INCLUDED
+-------------------
+Main Pages:
+- index.html (Home page)
+- about-us-2.html
+- capabilities.html
+- projects.html
+- videos.html
+- news.html
+- careers.html
+- contact-us.html
+
+Capability Pages:
+- design-division.html
+- duct-factory.html
+- formwork.html
+- joinery.html
+- mep.html
+- post-tensioning.html
+- precast.html
+- concrete.html
+- aluminum.html
+
+News Article Pages:
+- ecobank-expo-2024.html
+- afnor-certification.html
+- eko-hotel-sustainable-energy-solutions.html
+- ims-internal-audit-training.html
+- la-definition-eko-atlantic.html
+- performance-improvement-training-2020.html
+- edge-certificate.html
+- acan.html
+- st-louis-rehab-center.html
+- iso-certification.html
+- coren-assembly.html
+- construction-uk-magazine.html
+
+DEPLOYMENT INSTRUCTIONS FOR NAMECHEAP/WEBUZO
+---------------------------------------------
+
+METHOD 1: Using cPanel File Manager (RECOMMENDED)
+1. Login to your Namecheap account
+2. Access cPanel for your domain
+3. Open File Manager
+4. Navigate to public_html directory
+5. Delete any existing files (backup first if needed)
+6. Upload itbng_webuzo_deployment.zip
+7. Right-click the zip file and select "Extract"
+8. Wait for extraction to complete
+9. Delete the zip file after extraction
+10. Visit your domain to verify the site is live
+
+METHOD 2: Using FTP (FileZilla/WinSCP)
+1. Get FTP credentials from Namecheap cPanel
+2. Connect to your server using FTP client
+3. Navigate to public_html directory
+4. Extract itbng_webuzo_deployment.zip locally first
+5. Upload all extracted files to public_html
+6. Wait for upload to complete (may take 10-15 minutes)
+7. Visit your domain to verify the site is live
+
+IMPORTANT POST-DEPLOYMENT CHECKS
+---------------------------------
+✓ Visit your domain (https://yourdomain.com)
+✓ Check that HTTPS redirect is working
+✓ Test navigation between all pages
+✓ Verify images are loading correctly
+✓ Test contact form functionality
+✓ Check Google Analytics is tracking (use browser dev tools)
+✓ Test social media links (Facebook, LinkedIn, Instagram, YouTube)
+✓ Verify mobile responsiveness
+
+PRODUCTION FEATURES ENABLED
+----------------------------
+✓ Google Analytics (ID: 178251311) - Active on all pages
+✓ Facebook Pixel (ID: 360345441814969) - Tracking PageViews
+✓ HTTPS Redirect - Auto-redirects HTTP to HTTPS
+✓ High-Quality Images - All images using =s0 parameter (3-4 MB each)
+✓ YouTube Video Integration - Embedded videos on multiple pages
+✓ Social Media Integration - Links to all platforms
+
+FOLDER STRUCTURE AFTER EXTRACTION
+----------------------------------
+public_html/
+├── index.html
+├── about-us-2.html
+├── capabilities.html
+├── (... all other HTML files)
+├── .htaccess
+├── contact_handler.php
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── fonts.css
+│   ├── all_js.js
+│   └── (... other CSS/JS files)
+└── images/
+    └── (545+ high-quality images)
+
+TROUBLESHOOTING
+---------------
+If images don't load:
+- Check that images folder was extracted correctly
+- Verify file permissions (755 for directories, 644 for files)
+
+If contact form doesn't work:
+- Verify contact_handler.php has correct permissions
+- Check PHP is enabled on your hosting plan
+- Update email address in contact_handler.php if needed
+
+If pages show 404 errors:
+- Verify all HTML files are in public_html root
+- Check .htaccess file is present
+- Ensure mod_rewrite is enabled on server
+
+CONTACT FORM CONFIGURATION
+---------------------------
+To configure the contact form email recipient:
+1. Open contact_handler.php in File Manager editor
+2. Find the line: $to = "your-email@example.com";
+3. Replace with your actual email address
+4. Save the file
+
+TECHNICAL SPECIFICATIONS
+-------------------------
+- Total Pages: 29 HTML files
+- Total Images: 545+ high-quality images
+- Google Fonts: Helvetica Neue (loaded from googleapis.com)
+- JavaScript: jQuery 2.x, YouTube iframe API
+- CSS Framework: Custom responsive framework
+- Video Hosting: YouTube embedded videos
+- Analytics: Google Analytics + Facebook Pixel
+- Security: HTTPS enforcement via redirect script
+- Server: Apache (uses .htaccess)
+
+SUPPORT
+-------
+If you encounter any issues during deployment:
+1. Check Namecheap hosting documentation
+2. Verify your hosting plan supports PHP
+3. Ensure .htaccess is supported (Apache servers)
+4. Check file upload size limits (124 MB zip)
+
+===============================================
+END OF DEPLOYMENT GUIDE
+===============================================

@@ -6088,6 +6088,11 @@ button.xprs-back-to-top-button {
     right: 10px;
     bottom: 10px;
   }
+  /* Fix: Preserve aspect ratio on mobile */
+  .multi_layout .inner-pic-holder .inner-pic {
+    background-size: cover !important;
+    min-height: 250px !important;
+  }
 }
 
 button.xprs-back-to-top-button[show="true"] {

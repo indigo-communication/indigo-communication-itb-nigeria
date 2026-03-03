@@ -3499,6 +3499,14 @@ and (max-width : 768px)  {
 	align-items: center;
 	justify-content: center;
 }
+
+/* Fix: Preserve aspect ratio on mobile */
+@media (max-width: 786px) {
+	.multi_layout .inner-pic-holder .inner-pic {
+		background-size: cover !important;
+		min-height: 250px !important;
+	}
+}
 </style>
 	<style class='menu-css'>.menu_layout.item-content{
 	height:inherit;

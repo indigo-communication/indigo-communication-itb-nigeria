@@ -152,7 +152,8 @@ LightBox.itemClick = function(currentItem){
 		lightboxImage.append(videoIframe);
 		lightboxImage.css("background-image","");
 	}else{
-		if(!currentHolder.closest(".master.item-box").is(".showing-feed")){
+		// Check if image is local (in images/ folder) - don't add size parameters
+		if(!currentHolder.closest(".master.item-box").is(".showing-feed") && imageSrc.indexOf("images/") === -1){
 			lightboxImage.css("background-image","url('"+ imageSrc + "=s" + newWidth +"')");
 		}else{
 			lightboxImage.css("background-image","url('"+ imageSrc + "')");
@@ -245,7 +246,8 @@ LightBox.addPagination = function(paginatorHolder,wrapper,items){
 		
 		if (imageSrc == ""){
 			return;
-		}else if(!currentHolder.closest(".master.item-box").is(".showing-feed")){
+		// Check if image is local (in images/ folder) - don't add size parameters
+		}else if(!currentHolder.closest(".master.item-box").is(".showing-feed") && imageSrc.indexOf("images/") === -1){
 			imageSrc += "=s" + newWidth;
 		}
 		var imageId = currentItem.attr("data-vbid");

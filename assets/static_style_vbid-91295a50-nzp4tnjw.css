@@ -1,0 +1,3310 @@
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-6pypabay version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .master .style-91295a50-6pypabay .title-holder  {
+		
+						text-align: center;
+							
+		}
+	 .master .style-91295a50-6pypabay .preview.image-cover  {
+		
+						min-height: 250px;
+							
+		}
+	 .master .style-91295a50-6pypabay .Title  ,  .master .style-91295a50-6pypabay .Body h1  { font-size:calc( 10px + ( 37rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						margin-right: 50px;
+						
+						margin-top: 30px;
+						
+						margin-left: 50px;
+						
+						font-family: ff-tisa-web-pro;
+							
+		}
+	 .master .style-91295a50-6pypabay  .preview-content-holder  {
+		
+						text-align: left;
+						
+						max-width: 400px;
+						
+						margin-right: 20px;
+						
+						margin-top: 20px;
+						
+						margin-left: 20px;
+						
+						margin-bottom: 20px;
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .master .style-91295a50-6pypabay .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(212, 212, 212, 0);
+							
+		}
+	 .master .style-91295a50-6pypabay .item-links span  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						padding-bottom: 10px;
+						
+						letter-spacing: 0.1em;
+						
+						max-width: 500px;
+						
+						padding-right: 20px;
+						
+						margin-top: 20px;
+						
+						padding-left: 20px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 20px;
+						
+						font-family: 'Times New Roman';
+						
+						background-color: rgb(66, 117, 83);
+						
+						margin-left: 50px;
+							
+		}
+	 .master .style-91295a50-6pypabay .preview-title  ,  .master .style-91295a50-6pypabay .preview-body h1  { 
+						font-family: 'Times New Roman';
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0em;
+						
+						margin-top: 20px;
+						
+						margin-bottom: 5px;
+						
+						line-height: 1.1em;
+							
+		}
+	 .master .style-91295a50-6pypabay .Quote  {
+		
+						margin-right: 50px;
+						
+						font-family: 'Times New Roman';
+						
+						margin-left: 50px;
+						
+						font-style: italic;
+							
+		}
+	 .master .style-91295a50-6pypabay .preview-item-links span  ,  .master .style-91295a50-6pypabay #sr-basket-widget *  { 
+						border-width: 1px;
+						font-size:calc( 10px + ( 16rem - 10rem ) );
+						color: rgb(50, 50, 50);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(147, 147, 147);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 15px;
+						
+						margin-top: 20px;
+						
+						padding-left: 15px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 20px;
+						
+						font-family: 'Times New Roman';
+						
+						background-color: rgba(159, 14, 14, 0);
+							
+		}
+	 .master .style-91295a50-6pypabay .quote-author  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 23rem - 10rem ) );
+						color: rgb(124, 124, 124);
+						
+						margin-right: 50px;
+						
+						margin-left: 50px;
+						
+						font-family: 'Times New Roman';
+							
+		}
+	 .master .style-91295a50-6pypabay .item-links  {
+		
+						text-align: center;
+							
+		}
+	 .master .style-91295a50-6pypabay .preview-element.icon-source  {
+		
+						width: 50px;
+							
+		}
+	 .master .style-91295a50-6pypabay .body-holder  {
+		
+						text-align: left;
+							
+		}
+	 .master .style-91295a50-6pypabay .Body  {
+		font-size:calc( 10px + ( 14rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						margin-right: 50px;
+						
+						margin-left: 50px;
+						
+						margin-bottom: 20px;
+						
+						line-height: 1.4em;
+							
+		}
+	 .master .style-91295a50-6pypabay .Subtitle  ,  .master .style-91295a50-6pypabay .Body h2  { 
+						font-style: italic;
+						font-size:calc( 10px + ( 22rem - 10rem ) );
+						letter-spacing: 0.05em;
+						
+						margin-right: 50px;
+						
+						margin-top: 15px;
+						
+						margin-left: 50px;
+						
+						margin-bottom: 15px;
+						
+						font-family: ff-tisa-web-pro;
+							
+		}
+	 .master .style-91295a50-6pypabay .page-image-cover  {
+		
+						margin-bottom: 30px;
+							
+		}
+	 .master .style-91295a50-6pypabay .title-wrapper  {
+		
+						max-width: 1124px;
+							
+		}
+	 .master .style-91295a50-6pypabay .subtitle-wrapper  {
+		
+						max-width: 1114px;
+							
+		}
+	 .master .style-91295a50-6pypabay  .preview-content-wrapper  {
+		
+						text-align: left;
+							
+		}
+	 .master .style-91295a50-6pypabay .body-wrapper  {
+		
+						max-width: 700px;
+							
+		}
+	 .master .style-91295a50-6pypabay .element.icon-source  {
+		
+						width: 40px;
+							
+		}
+	 .master .style-91295a50-6pypabay .preview-item-links span:hover  ,  .master .style-91295a50-6pypabay .preview-element.Link.hover-tester  { 
+						background-color: rgba(0, 0, 0, 0);
+						
+						color: rgb(0, 0, 0);
+							
+		}
+	 .master .style-91295a50-6pypabay .subtitle-holder  {
+		
+						text-align: center;
+							
+		}
+	 .master .style-91295a50-6pypabay .preview-body  {
+		
+						line-height: 1.6em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(34, 34, 34);
+						
+						max-width: 500px;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Arial;
+							
+		}
+	
+	 .style-91295a50-6pypabay.master.container > #children  {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .master .style-91295a50-6pypabay .preview-subtitle  ,  .master .style-91295a50-6pypabay .preview-body h2  { 
+						font-family: 'Roboto Slab Light';
+						font-size:calc( 10px + ( 14rem - 10rem ) );
+						color: rgb(35, 35, 35);
+						
+						letter-spacing: 0.1em;
+						
+						margin-right: 0px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 5px;
+						
+						line-height: 1.2em;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-d92e7-lu5luv0q version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-title-holder  {
+		
+						text-align: left;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q.master.item-box   {
+		
+						position: relative;
+						
+						background-color: rgba(255, 255, 255, 0.67);
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q.master.item-box   {
+		
+						padding-left: 0%;
+						
+						padding-right: 0%;
+						
+						width: 100%;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-item-links  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q  .preview-content-holder  {
+		
+						margin-right: 0px;
+						
+						border-color: rgb(214, 214, 214);
+						
+						max-width: 1000px;
+						
+						padding-right: 0px;
+						
+						margin-top: 0px;
+						
+						margin-left: 0px;
+						
+						padding-top: 0px;
+						
+						background-color: rgba(0, 0, 0, 0);
+						
+						text-align: left;
+						
+						padding-left: 0px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-item-links span  ,  .style-91295a50-6pypabay .style-d92e7-lu5luv0q #sr-basket-widget *  { 
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 14rem - 10rem ) );
+						color: rgb(53, 53, 53);
+						
+						padding-bottom: 3px;
+						
+						border-color: rgba(255, 255, 255, 0.670588);
+						
+						letter-spacing: 0.0em;
+						
+						max-width: 1150px;
+						
+						padding-right: 10px;
+						
+						padding-left: 10px;
+						
+						border-radius: 0px;
+						
+						padding-top: 3px;
+						
+						border-width: 0px;
+						
+						background-color: rgba(0, 0, 0, 0);
+						
+						margin-left: 3px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-title  ,  .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-body h1  { font-size:calc( 10px + ( 19rem - 10rem ) );
+						margin-right: 20px;
+						
+						color: rgb(71, 71, 71);
+						
+						letter-spacing: 0.05em;
+						
+						padding-right: 0px;
+						
+						margin-left: 0px;
+						
+						font-family: Raleway;
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-item-links.allow-bg-color  ,  .style-91295a50-6pypabay .style-d92e7-lu5luv0q .submenu  { 
+						background-color: rgb(230, 230, 230);
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(244, 203, 74, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-divider  {
+		
+						border-bottom-width: 1px;
+						
+						width: 10%;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-icon-holder  {
+		
+		    			-webkit-filter: invert(0%);filter: invert(0%);	
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-subtitle-holder  {
+		
+						text-align: left;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-element.icon-source  {
+		
+						padding-right: 0px;
+						
+						color: rgb(0, 0, 0);
+						
+						margin-right: 5px;
+						
+						margin-top: 0px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 0px;
+						
+						width: 80px;
+						
+						padding-left: 0px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .stripe-background  {
+		
+						margin-top: -10px;
+						
+						margin-left: 0%;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-item-links span:before  ,  .style-91295a50-6pypabay .style-d92e7-lu5luv0q .effect-tester  { 
+						background-color: rgba(36, 109, 190, 0.81);
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q  .preview-content-wrapper  {
+		
+						vertical-align: bottom;
+						
+						text-align: left;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .middle_layout .helper-div  ,  .style-91295a50-6pypabay .style-d92e7-lu5luv0q .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-subtitle  ,  .style-91295a50-6pypabay .style-d92e7-lu5luv0q .preview-body h2  { font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(152, 152, 152);
+						
+						letter-spacing: 0.05em;
+						
+						margin-right: 0px;
+						
+						margin-top: 5px;
+						
+						margin-left: 0px;
+						
+						font-family: Arial;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-d92e7-b9fmfmia version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .Body  {
+		font-size:calc( 10px + ( 12rem - 10rem ) );
+						max-width: 650px;
+						
+						margin-right: 20px;
+						
+						margin-left: 20px;
+						
+						margin-bottom: 10px;
+						
+						line-height: 1.4em;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .title-holder  {
+		
+						text-align: right;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .Subtitle  ,  .style-91295a50-6pypabay .style-d92e7-b9fmfmia .Body h2  { font-size:calc( 10px + ( 15rem - 10rem ) );
+						color: rgb(110, 110, 110);
+						
+						max-width: 650px;
+						
+						letter-spacing: 0.1em;
+						
+						margin-right: 20px;
+						
+						margin-top: 15px;
+						
+						margin-left: 20px;
+						
+						margin-bottom: 15px;
+						
+						font-family: Arial;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .quote-holder  {
+		
+						margin-bottom: 45px;
+						
+						margin-top: 35px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .subtitle-wrapper  {
+		
+						max-width: 1180px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .Title  ,  .style-91295a50-6pypabay .style-d92e7-b9fmfmia .Body h1  { font-size:calc( 10px + ( 11rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						max-width: 650px;
+						
+						letter-spacing: 0.05em;
+						
+						margin-right: 20px;
+						
+						margin-top: 30px;
+						
+						margin-left: 20px;
+						
+						font-family: Montserrat;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .link-wrapper  {
+		
+						max-width: 1058px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .Quote  {
+		
+						margin-right: 50px;
+						
+						font-family: 'Times New Roman';
+						font-size:calc( 10px + ( 19rem - 10rem ) );
+						margin-left: 50px;
+						
+						font-style: italic;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .raw-container  {
+		
+						padding-top: 0px;
+						
+						margin-left: 70px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .quote-author  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 19rem - 10rem ) );
+						color: rgb(124, 124, 124);
+						
+						margin-right: 50px;
+						
+						margin-top: 10px;
+						
+						margin-left: 50px;
+						
+						font-family: 'Times New Roman';
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .title-wrapper  {
+		
+						max-width: 1180px;
+							
+		}
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .item-links span  {
+		
+						font-family: Arial;
+						font-size:calc( 10px + ( 13rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						padding-bottom: 10px;
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 15px;
+						
+						margin-top: 20px;
+						
+						padding-left: 15px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 20px;
+						
+						border-width: 1px;
+						
+						background-color: rgba(66, 117, 83, 0);
+						
+						margin-left: 50px;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-d92e7-b9fmfmia .body-wrapper  {
+		
+						max-width: 1032px;
+							
+		}
+	 .style-d92e7-b9fmfmia.master.container > #children  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-title:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-title:not(.custom) { 
+						font-family: Montserrat;
+				
+						letter-spacing: 0.0em;
+				
+						line-height: 1.1em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-element.Link:not(.custom)  {
+		
+						font-family: Montserrat;
+				
+						letter-spacing: -0.0em;
+				
+						border-width: 1px;
+				
+						border-radius: 0px;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-subtitle:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-subtitle:not(.custom) { 
+						font-family: Montserrat;
+				
+						letter-spacing: 0.05em;
+				
+						line-height: 1.1em;
+					
+		}
+	
+	
+	
+			.master.container.website-style .master.item-box:not(.custom) .preview-body:not(.custom) , 
+			.master.container.website-style .master.item-box:not(.custom) .blocks-preview-body:not(.custom) { 
+						font-family: Montserrat;
+				
+						letter-spacing: -0.0em;
+				
+						direction: ltr;
+				
+						line-height: 1.4em;
+					
+		}
+	
+	
+	
+			body    {
+		
+						background-color: rgb(255, 255, 255);
+					
+		}/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-btp65mk1 version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-title  ,  .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-body h1  { font-size:calc( 10px + ( 21rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.05em;
+						
+						font-family: Montserrat;
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-link-img  {
+		
+						margin: 5px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .inner-pic-holder  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1  .preview-content-holder  {
+		
+						margin-right: 0px;
+						
+						padding-bottom: 0px;
+						
+						text-align: center;
+						
+						max-width: 750px;
+						
+						padding-right: 0px;
+						
+						margin-top: 50px;
+						
+						margin-left: 0px;
+						
+						padding-top: 0px;
+						
+						margin-bottom: 50px;
+						
+						background-color: rgba(255, 255, 255, 0);
+						
+						border-color: rgba(253, 253, 253, 0.53);
+						
+						padding-left: 0px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-item-links span  ,  .style-91295a50-6pypabay .style-91295a50-btp65mk1 #sr-basket-widget *  { font-size:calc( 10px + ( 13rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.15em;
+						
+						padding-right: 20px;
+						
+						margin-top: 30px;
+						
+						padding-left: 20px;
+						
+						padding-top: 10px;
+						
+						font-family: Arial;
+						
+						background-color: rgb(0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .draggable-pic-wrapper  {
+			
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .background-image-div  {
+		
+						color: rgb(0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-icon-holder  {
+		
+						margin-bottom: 40px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .inner-pic  {
+		
+						color: rgb(0, 0, 0);
+						
+						opacity: 1.1;
+						
+		    			-webkit-filter:none;filter:none;	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						
+						background-color: rgb(57, 57, 57);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .draggable-pic  {
+			
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-element.icon-source  {
+		
+						margin-bottom: 15px;
+						
+						width: 90px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1  .preview-content-wrapper  {
+		
+						text-align: center;
+						
+						vertical-align: middle;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-body  {
+		
+						line-height: 1.4em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.05em;
+						
+						max-width: 600px;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 30px;
+						
+						font-family: Arial;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .middle_layout .helper-div  ,  .style-91295a50-6pypabay .style-91295a50-btp65mk1 .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1050px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-subtitle  ,  .style-91295a50-6pypabay .style-91295a50-btp65mk1 .preview-body h2  { 
+						font-style: italic;
+						font-size:calc( 10px + ( 48rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.0em;
+						
+						margin-right: 0px;
+						
+						margin-top: 10px;
+						
+						margin-left: 0px;
+						
+						font-family: 'Playfair Display';
+						
+						margin-bottom: 10px;
+						
+						line-height: 1.0em;
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+ .style-91295a50-btp65mk1 #vbid-91295a50-6ayasdmm .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-an6dwjfw .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-1q5j6a8u .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-takf4q7d .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-sysqxux4 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pzmmx2tv .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ehltf5ae .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-d32iizvu .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-usvp0psj .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-hceqalrd .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pqzltg04 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-yc8ac4wf .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pm4op0q2 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-cg3fcjqa .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ag4rmcb9 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-0gjud0d4 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-llpxvpi2 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-nvtknaqp .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-uzpm3yw8 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-qrylb9qk .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-fahbcpxh .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-goyinxvh .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-w7ep4vsd .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-s9o0dlul .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-gdis8ocg .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-sqamzbm7 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-1pixbwn7 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ua2nlfon .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-nswhujbn .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-depwiprv .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-0g4sojwp .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-at4c5vel .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-3c2ozcqh .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-sqatpllc .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-in3lbd8e .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ikd4k9pi .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-zq3zrk7t .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-igbtlxyu .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-w3vr8hav .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-xfdtkjdt .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-il7aa9lj .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-2edvwxw9 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pb4ntvqy .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-a89awwb4 .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-p6xfdh4e .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-lfczle2n .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-jemdz02i .preview-content-holder{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-380ullyr .preview-content-holder{
+				
+							text-align : center;
+					
+				}
+
+.desktop-mode .style-91295a50-btp65mk1 #vbid-91295a50-vblwypxq-wrapper.draggable-pic-wrapper{
+				
+							top : 233px;
+					
+							left : 475px;
+					
+							height : 90px;
+					
+							width : 98px;
+					
+				}.desktop-mode .style-91295a50-btp65mk1 #vbid-91295a50-532ri6wh-wrapper.draggable-pic-wrapper{
+				
+							top : 233px;
+					
+							left : 475px;
+					
+							height : 90px;
+					
+							width : 98px;
+					
+				}.desktop-mode .style-91295a50-btp65mk1 #vbid-91295a50-aib8ttjc-wrapper.draggable-pic-wrapper{
+				
+							top : 233px;
+					
+							left : 475px;
+					
+							height : 90px;
+					
+							width : 98px;
+					
+				}
+
+
+
+
+
+
+
+ .style-91295a50-btp65mk1 #vbid-91295a50-vblwypxq.draggable-pic{
+				
+							-webkit-filter:none;filter:none;
+						
+					
+							background-position : top left;
+					
+							background-size : contain;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-aib8ttjc.draggable-pic{
+				
+							-webkit-filter:none;filter:none;
+						
+					
+							background-position : top left;
+					
+							background-size : contain;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-532ri6wh.draggable-pic{
+				
+							-webkit-filter:none;filter:none;
+						
+					
+							background-position : top left;
+					
+							background-size : contain;
+					
+				}
+
+ .style-91295a50-btp65mk1 #vbid-91295a50-6ayasdmm .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-an6dwjfw .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-1q5j6a8u .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-takf4q7d .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-sysqxux4 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pzmmx2tv .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ehltf5ae .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-d32iizvu .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-usvp0psj .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-hceqalrd .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pqzltg04 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-yc8ac4wf .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pm4op0q2 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-cg3fcjqa .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ag4rmcb9 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-0gjud0d4 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-llpxvpi2 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-nvtknaqp .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-uzpm3yw8 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-qrylb9qk .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-fahbcpxh .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-goyinxvh .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-w7ep4vsd .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-s9o0dlul .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-gdis8ocg .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-sqamzbm7 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-1pixbwn7 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ua2nlfon .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-nswhujbn .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-depwiprv .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-0g4sojwp .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-at4c5vel .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-3c2ozcqh .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-sqatpllc .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-in3lbd8e .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-ikd4k9pi .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-zq3zrk7t .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-igbtlxyu .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-w3vr8hav .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-xfdtkjdt .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-il7aa9lj .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-2edvwxw9 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-pb4ntvqy .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-a89awwb4 .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-p6xfdh4e .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-lfczle2n .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-jemdz02i .preview-content-wrapper{
+				
+							text-align : center;
+					
+				} .style-91295a50-btp65mk1 #vbid-91295a50-380ullyr .preview-content-wrapper{
+				
+							text-align : center;
+					
+				}
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-z8xoegkz version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .title-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .Title  ,  .style-91295a50-6pypabay .style-91295a50-z8xoegkz .Body h1  { 
+						color: #8a7373;
+						font-size:calc( 10px + ( 36rem - 10rem ) );
+						font-family: open-sans;
+						
+						letter-spacing: 0.15em;
+						
+						font-weight: bold;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz  .preview-content-holder  {
+		
+						margin-right: 0px;
+						
+						padding-bottom: 0px;
+						
+						text-align: left;
+						
+						max-width: 300px;
+						
+						padding-right: 0px;
+						
+						margin-top: 0px;
+						
+						margin-left: 0px;
+						
+						padding-top: 0px;
+						
+						margin-bottom: 0px;
+						
+						border-color: rgb(60, 60, 60);
+						
+						padding-left: 0px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .item-content:not(.blocks_layout)  {
+		
+						color: rgba(0, 0, 0, 0);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-divider  {
+		
+						margin-bottom: 5px;
+						
+						border-color: rgb(0, 0, 0);
+						
+						margin-top: 5px;
+						
+						width: 10%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .inner-pic  {
+		
+						color: rgb(0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz #pagination-holder  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 17rem - 10rem ) );
+						font-family: 'Times New Roman';
+						
+						color: rgb(76, 76, 76);
+						
+						padding-bottom: 5px;
+						
+						border-color: rgb(85, 85, 85);
+						
+						padding-right: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 5px;
+						
+						margin-bottom: 40px;
+						
+						border-width: 1px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .background-div  {
+			
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz.master.item-box   {
+		
+						background-color: rgba(8, 88, 157, 0.86);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-title  ,  .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-body h1  { 
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgb(85, 85, 85);
+						
+						letter-spacing: 0em;
+						
+						margin-top: 0px;
+						
+						line-height: 1.2em;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz.master.item-box   {
+		
+						padding-left: 6%;
+						
+						width: 88%;
+						
+						padding-right: 6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-item-links span  ,  .style-91295a50-6pypabay .style-91295a50-z8xoegkz #sr-basket-widget *  { 
+						font-family: Arial;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(99, 99, 99);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(122, 122, 122);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 15px;
+						
+						margin-top: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 30px;
+						
+						border-width: 1px;
+						
+						background-color: rgba(15, 43, 67, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .blocks-preview-body  {
+		
+						margin-bottom: 10px;
+						
+						line-height: 1.5em;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .stripe-background  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-element.icon-source  {
+		
+						padding-top: 0px;
+						
+						margin-bottom: 0px;
+						
+						margin-top: 0px;
+						
+						width: 90px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .background-image-div  {
+		
+						color: rgb(0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .Subtitle  ,  .style-91295a50-6pypabay .style-91295a50-z8xoegkz .Body h2  { 
+						font-family: ralewaythin;
+						font-size:calc( 10px + ( 22rem - 10rem ) );	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .blocks-preview-subtitle  {
+		
+						margin-bottom: 10px;
+						font-size:calc( 10px + ( 16rem - 10rem ) );
+						margin-top: 10px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz  .preview-content-wrapper  {
+		
+						text-align: center;
+						
+						vertical-align: middle;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-price  {
+		
+						font-family: Arial;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .subtitle-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .inner-pic-holder  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .blocks-preview-title  {
+		
+						margin-bottom: 10px;
+						
+						margin-top: 10px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-body  {
+		
+						line-height: 1.4em;
+						font-size:calc( 10px + ( 9rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.1em;
+						
+						max-width: 500px;
+						
+						margin-right: 0px;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 0px;
+						
+						font-family: Montserrat;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-subtitle  ,  .style-91295a50-6pypabay .style-91295a50-z8xoegkz .preview-body h2  { 
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.1em;
+						
+						margin-right: 0px;
+						
+						margin-top: 5px;
+						
+						margin-left: 0px;
+						
+						line-height: 1.4em;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-c3yvxhu5 version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .title-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview.image-cover  {
+		
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .Title  ,  .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .Body h1  { 
+						color: #8a7373;
+						
+						letter-spacing: 0.15em;
+						
+						font-family: open-sans;
+						font-size:calc( 10px + ( 36rem - 10rem ) );
+						font-weight: bold;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5  .preview-content-holder  {
+		
+						text-align: left;
+						
+						margin-right: 0px;
+						
+						margin-top: 10px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 10px;
+						
+						background-color: rgba(255, 255, 255, 0);
+						
+						border-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .inner-pic  {
+		
+						color: rgb(255, 255, 255);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 #pagination-holder  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 17rem - 10rem ) );
+						color: rgb(76, 76, 76);
+						
+						padding-bottom: 5px;
+						
+						border-color: rgb(85, 85, 85);
+						
+						border-width: 1px;
+						
+						padding-right: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 5px;
+						
+						margin-bottom: 40px;
+						
+						font-family: 'Times New Roman';
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .background-div  {
+		
+						background-size: contain;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5.master.item-box   {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-title  ,  .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-body h1  { 
+						line-height: 1.2em;
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.1em;
+						
+						font-weight: bold;
+						
+						font-family: Montserrat;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5.master.item-box   {
+		
+						padding-left: 6%;
+						
+						width: 88%;
+						
+						padding-right: 6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-item-links span  ,  .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 #sr-basket-widget *  { 
+						border-width: 1px;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 15px;
+						
+						margin-top: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 30px;
+						
+						font-family: Arial;
+						
+						background-color: rgba(15, 43, 67, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .stripe-background  {
+		
+						opacity: 1;
+						
+		    			-webkit-filter:none;filter:none;
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-element.icon-source  {
+		
+						margin-bottom: 20px;
+						
+						width: 60px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .background-image-div  {
+		
+						color: rgb(255, 255, 255);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .Subtitle  ,  .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .Body h2  { 
+						font-family: ralewaythin;
+						font-size:calc( 10px + ( 22rem - 10rem ) );	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-icon-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5  .preview-content-wrapper  {
+		
+						text-align: center;
+						
+						vertical-align: top;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .subtitle-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .inner-pic-holder  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-body  {
+		
+						font-family: Arial;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(140, 140, 140);
+						
+						max-width: 500px;
+						
+						margin-top: 15px;
+						
+						margin-bottom: 10px;
+						
+						line-height: 1.6em;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-subtitle  ,  .style-91295a50-6pypabay .style-91295a50-c3yvxhu5 .preview-body h2  { 
+						line-height: 1.4em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						margin-right: 0px;
+						
+						margin-left: 0px;
+						
+						font-family: Arial;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+ .style-91295a50-c3yvxhu5 #vbid-91295a50-ctvahloh.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-c3yvxhu5 #vbid-91295a50-lo6bu3ke.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-c3yvxhu5 #vbid-91295a50-4vfw1bxv.inner-pic{
+				
+							background-size : contain;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-xu9pwpds version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .title-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview.image-cover  {
+		
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .Title  ,  .style-91295a50-6pypabay .style-91295a50-xu9pwpds .Body h1  { 
+						color: #8a7373;
+						font-size:calc( 10px + ( 36rem - 10rem ) );
+						font-family: open-sans;
+						
+						letter-spacing: 0.15em;
+						
+						font-weight: bold;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds  .preview-content-holder  {
+		
+						text-align: center;
+						
+						margin-right: 0px;
+						
+						margin-top: 5px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 10px;
+						
+						background-color: rgba(255, 255, 255, 0);
+						
+						border-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .inner-pic  {
+		
+						opacity: 0.8;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds #pagination-holder  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 17rem - 10rem ) );
+						font-family: 'Times New Roman';
+						
+						color: rgb(76, 76, 76);
+						
+						padding-bottom: 5px;
+						
+						border-color: rgb(85, 85, 85);
+						
+						padding-right: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 5px;
+						
+						margin-bottom: 40px;
+						
+						border-width: 1px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						width: 88%;
+						
+						padding-right: 6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .background-div  {
+		
+						background-size: contain;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-title  ,  .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-body h1  { 
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						color: rgba(53, 53, 53, 0.71);
+						
+						letter-spacing: 0.1em;
+						
+						margin-top: 5px;
+						
+						line-height: 1.2em;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds.master.item-box   {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-item-links span  ,  .style-91295a50-6pypabay .style-91295a50-xu9pwpds #sr-basket-widget *  { 
+						font-family: Arial;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 15px;
+						
+						margin-top: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 30px;
+						
+						border-width: 1px;
+						
+						background-color: rgba(15, 43, 67, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .stripe-background  {
+		
+						margin-top: -50px;
+						
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-element.icon-source  {
+		
+						margin-bottom: 20px;
+						
+						width: 60px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .Subtitle  ,  .style-91295a50-6pypabay .style-91295a50-xu9pwpds .Body h2  { 
+						font-family: ralewaythin;
+						font-size:calc( 10px + ( 22rem - 10rem ) );	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-icon-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds  .preview-content-wrapper  {
+		
+						text-align: center;
+						
+						vertical-align: top;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .subtitle-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .inner-pic-holder  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-body  {
+		
+						line-height: 1.6em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(140, 140, 140);
+						
+						max-width: 500px;
+						
+						margin-top: 15px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Arial;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-subtitle  ,  .style-91295a50-6pypabay .style-91295a50-xu9pwpds .preview-body h2  { 
+						font-family: Arial;
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						margin-right: 0px;
+						
+						margin-top: 15px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 5px;
+						
+						line-height: 1.4em;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+ .style-91295a50-xu9pwpds #vbid-91295a50-zacdk3tc.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xu9pwpds #vbid-91295a50-mlgtyhsw.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xu9pwpds #vbid-91295a50-fuy4uodg.inner-pic{
+				
+							background-size : contain;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-xlbhxapm version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .title-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview.image-cover  {
+		
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .Title  ,  .style-91295a50-6pypabay .style-91295a50-xlbhxapm .Body h1  { 
+						color: #8a7373;
+						
+						letter-spacing: 0.15em;
+						
+						font-family: open-sans;
+						font-size:calc( 10px + ( 36rem - 10rem ) );
+						font-weight: bold;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm  .preview-content-holder  {
+		
+						text-align: center;
+						
+						margin-right: 0px;
+						
+						margin-top: 5px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 10px;
+						
+						background-color: rgba(255, 255, 255, 0);
+						
+						border-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .inner-pic  {
+		
+						opacity: 0.8;
+						
+		    			-webkit-filter:none;filter:none;	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm #pagination-holder  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 17rem - 10rem ) );
+						color: rgb(76, 76, 76);
+						
+						padding-bottom: 5px;
+						
+						border-color: rgb(85, 85, 85);
+						
+						border-width: 1px;
+						
+						padding-right: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 5px;
+						
+						margin-bottom: 40px;
+						
+						font-family: 'Times New Roman';
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .background-div  {
+		
+						background-size: contain;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-title  ,  .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-body h1  { 
+						line-height: 1.2em;
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						color: rgba(53, 53, 53, 0.71);
+						
+						letter-spacing: 0.1em;
+						
+						margin-top: 5px;
+						
+						font-family: Montserrat;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm.master.item-box   {
+		
+						padding-left: 6%;
+						
+						width: 88%;
+						
+						padding-right: 6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-item-links span  ,  .style-91295a50-6pypabay .style-91295a50-xlbhxapm #sr-basket-widget *  { 
+						border-width: 1px;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 15px;
+						
+						margin-top: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 30px;
+						
+						font-family: Arial;
+						
+						background-color: rgba(15, 43, 67, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .stripe-background  {
+		
+						margin-top: -10px;
+						
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-element.icon-source  {
+		
+						margin-bottom: 20px;
+						
+						width: 60px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .Subtitle  ,  .style-91295a50-6pypabay .style-91295a50-xlbhxapm .Body h2  { 
+						font-family: ralewaythin;
+						font-size:calc( 10px + ( 22rem - 10rem ) );	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-icon-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm  .preview-content-wrapper  {
+		
+						text-align: center;
+						
+						vertical-align: top;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .subtitle-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .inner-pic-holder  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-body  {
+		
+						font-family: Arial;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(140, 140, 140);
+						
+						max-width: 500px;
+						
+						margin-top: 15px;
+						
+						margin-bottom: 10px;
+						
+						line-height: 1.6em;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-subtitle  ,  .style-91295a50-6pypabay .style-91295a50-xlbhxapm .preview-body h2  { 
+						line-height: 1.4em;
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						margin-right: 0px;
+						
+						margin-top: 15px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 5px;
+						
+						font-family: Arial;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+ .style-91295a50-xlbhxapm #vbid-91295a50-sdbbtkzs.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xlbhxapm #vbid-91295a50-veyaetix.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xlbhxapm #vbid-91295a50-2rdzakqi.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xlbhxapm #vbid-91295a50-c3jigkdh.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xlbhxapm #vbid-91295a50-wbu5ryfa.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xlbhxapm #vbid-91295a50-7vcz5jwq.inner-pic{
+				
+							background-size : contain;
+					
+				} .style-91295a50-xlbhxapm #vbid-91295a50-2gvass2v.inner-pic{
+				
+							background-size : contain;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-g0cdlwux version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux.master.item-box   {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-title  ,  .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-body h1  { font-size:calc( 10px + ( 17rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgba(53, 53, 53, 0.709804);
+						
+						letter-spacing: 0.0em;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Montserrat;
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-icon-holder  {
+		
+						margin-bottom: 40px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux  .preview-content-holder  {
+		
+						margin-right: 50px;
+						
+						padding-bottom: 0px;
+						
+						text-align: center;
+						
+						max-width: 400px;
+						
+						padding-right: 0px;
+						
+						margin-top: 30px;
+						
+						margin-left: 50px;
+						
+						padding-top: 0px;
+						
+						margin-bottom: 30px;
+						
+						background-color: rgba(255, 255, 255, 0);
+						
+						padding-left: 0px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-item-links span  ,  .style-91295a50-6pypabay .style-91295a50-g0cdlwux #sr-basket-widget *  { 
+						border-width: 2px;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						margin-right: 5px;
+						
+						color: rgb(0, 0, 0);
+						
+						padding-bottom: 15px;
+						
+						border-color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 20px;
+						
+						margin-top: 10px;
+						
+						margin-left: 5px;
+						
+						border-radius: 18px;
+						
+						padding-top: 15px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Raleway;
+						
+						background-color: rgba(0, 0, 0, 0);
+						
+						font-weight: bold;
+						
+						padding-left: 20px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-element.Link.hover-tester  { 
+						color: rgb(255, 255, 255);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-divider  {
+		
+						border-bottom-width: 2px;
+						
+						border-color: rgba(53, 53, 53, 0.709804);
+						
+						width: 10%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-item-links span:before  ,  .style-91295a50-6pypabay .style-91295a50-g0cdlwux .effect-tester  { 
+						background-color: rgb(0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-body  {
+		
+						line-height: 1.4em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(113, 113, 113);
+						
+						letter-spacing: 0em;
+						
+						max-width: 600px;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Montserrat;
+						
+						background-color: rgba(255, 248, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-element.icon-source  {
+		
+						margin-bottom: 25px;
+						
+						width: 60px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux  .preview-content-wrapper  {
+		
+						vertical-align: middle;
+						
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .stripe-background  {
+		
+						margin-top: -25px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .middle_layout .helper-div  ,  .style-91295a50-6pypabay .style-91295a50-g0cdlwux .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-subtitle  ,  .style-91295a50-6pypabay .style-91295a50-g0cdlwux .preview-body h2  { 
+						font-family: Raleway;
+						font-size:calc( 10px + ( 16rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0em;
+						
+						margin-right: 0px;
+						
+						margin-top: 10px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 10px;
+						
+						line-height: 1.2em;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+ .style-91295a50-g0cdlwux #vbid-91295a50-hjuaueao .preview-content-holder{
+				
+							text-align : left;
+					
+				}
+
+
+
+
+
+
+
+
+
+ .style-91295a50-g0cdlwux #vbid-91295a50-hjuaueao .preview-content-wrapper{
+				
+							text-align : left;
+					
+				}
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-91295a50-t3smm9ru version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .title-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .Title  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .Body h1  { 
+						color: #8a7373;
+						
+						letter-spacing: 0.15em;
+						
+						font-family: open-sans;
+						font-size:calc( 10px + ( 36rem - 10rem ) );
+						font-weight: bold;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru  .preview-content-holder  {
+		
+						margin-right: 0px;
+						
+						padding-bottom: 0px;
+						
+						text-align: center;
+						
+						padding-right: 0px;
+						
+						margin-top: 0px;
+						
+						margin-left: 0px;
+						
+						padding-top: 0px;
+						
+						margin-bottom: 0px;
+						
+						background-color: rgba(0, 0, 0, 0);
+						
+						padding-left: 0px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-body  {
+		
+						line-height: 1.5em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						margin-top: 10px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Arial;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .item-content:not(.blocks_layout)  {
+		
+						opacity: rgba(0, 0, 0, 0);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .inner-pic  {
+		
+						opacity: 0.96;
+						
+						color: rgb(0, 0, 0);
+						
+		    			-webkit-filter: grayscale(100%) brightness(0.8);	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru #pagination-holder  {
+		
+						font-style: italic;
+						font-size:calc( 10px + ( 17rem - 10rem ) );
+						color: rgb(76, 76, 76);
+						
+						padding-bottom: 5px;
+						
+						border-color: rgb(85, 85, 85);
+						
+						border-width: 1px;
+						
+						padding-right: 15px;
+						
+						padding-left: 15px;
+						
+						padding-top: 5px;
+						
+						margin-bottom: 40px;
+						
+						font-family: 'Times New Roman';
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-item-links .Link:hover  {
+		
+						color: rgb(191, 52, 52);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .background-div  {
+			
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-title  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-body h1  { 
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 20rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.1em;
+						
+						margin-top: 15px;
+						
+						margin-bottom: 5px;
+						
+						line-height: 0.9em;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru.master.item-box   {
+		
+						padding-left: 0%;
+						
+						width: 100%;
+						
+						padding-right: 0%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-item-links span  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru #sr-basket-widget *  { 
+						font-family: Arial;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						padding-bottom: 10px;
+						
+						border-color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.1em;
+						
+						padding-right: 15px;
+						
+						margin-top: 15px;
+						
+						padding-left: 15px;
+						
+						border-radius: 10px;
+						
+						padding-top: 10px;
+						
+						margin-bottom: 15px;
+						
+						border-width: 2px;
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-subtitle-holder  {
+		
+						max-width: 800px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .stripe-background  {
+		
+						opacity: 0.4;
+						
+		    			-webkit-filter: grayscale(100%) brightness(0.8);
+						margin-left: 0%;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-element.icon-source  {
+		
+						width: 40px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-content-holder  {
+		
+						margin-right: 0px;
+						
+						padding-bottom: 0px;
+						
+						text-align: center;
+						
+						padding-right: 0px;
+						
+						margin-top: 30px;
+						
+						margin-left: 0px;
+						
+						padding-top: 0px;
+						
+						margin-bottom: 25px;
+						
+						padding-left: 0px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .background-image-div  {
+		
+						color: rgb(0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .Subtitle  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .Body h2  { 
+						font-family: ralewaythin;
+						font-size:calc( 10px + ( 22rem - 10rem ) );	
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru.item-box > .item-wrapper   {
+		
+						max-width: 2000px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-subtitle  {
+		
+						font-family: Arial;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.15em;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 5px;
+						
+						line-height: 1.4em;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-item-links span:before  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .effect-tester  { 
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru  .preview-content-wrapper  {
+		
+						text-align: center;
+						
+						vertical-align: middle;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-price  {
+		
+						font-family: Arial;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-body-holder  {
+		
+						max-width: 800px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-item-links span:hover  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-element.Link.hover-tester  { 
+						color: rgb(0, 0, 0);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .subtitle-holder  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .inner-pic-holder  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-divider  {
+		
+						margin-bottom: 10px;
+						
+						margin-top: 10px;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-icon-holder .icon-source  {
+		
+						color: rgb(255, 255, 255);
+						
+						width: 70px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-content-wrapper  {
+		
+						text-align: center;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-title  {
+		font-size:calc( 10px + ( 18rem - 10rem ) );
+						text-transform: uppercase;
+						
+						color: rgb(53, 53, 53);
+						
+						letter-spacing: -0.0em;
+						
+						margin-top: 5px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Montserrat;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-body  {
+		
+						line-height: 1.4em;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						max-width: 500px;
+						
+						margin-top: 10px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Arial;
+							
+		}
+	
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .blocks-preview-item-links .Link  {
+		font-size:calc( 10px + ( 15rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						padding-bottom: 5px;
+						
+						border-color: rgb(0, 0, 0);
+						
+						padding-right: 15px;
+						
+						margin-top: 10px;
+						
+						padding-left: 15px;
+						
+						border-radius: 20px;
+						
+						padding-top: 5px;
+						
+						margin-bottom: 10px;
+						
+						border-width: 2px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-subtitle  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .preview-body h2  { 
+						font-family: Arial;
+						font-size:calc( 10px + ( 12rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0em;
+						
+						margin-right: 0px;
+						
+						margin-top: 0px;
+						
+						margin-left: 0px;
+						
+						line-height: 1.4em;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .middle_layout .helper-div  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1050px;
+							
+		}
+	 .style-91295a50-6pypabay .style-91295a50-t3smm9ru .pic-side:after  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .item-effect-tester  ,  .style-91295a50-6pypabay .style-91295a50-t3smm9ru .sub.item-box:after  { 
+						background-color: rgb(255, 255, 255);
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+
+
+
+
+
+ .style-91295a50-t3smm9ru #vbid-91295a50-kybtuzbr.inner-pic{
+				
+							background-position : 47.3568267822266% 16.3999996185303%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-nobowrtp.inner-pic{
+				
+							background-position : 49.1189422607422% 13.1999998092651%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-uak2gblo.inner-pic{
+				
+							background-position : 45.5947151184082% 7.59999990463257%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-tf4l6m2c.inner-pic{
+				
+							background-position : 50.3448257446289% 5.51724147796631%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-ivjxarab.inner-pic{
+				
+							background-position : 49.1189422607422% 13.1999998092651%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-hcetbpsp.inner-pic{
+				
+							background-position : 47.3568267822266% 26.7999992370605%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-eeezmsca.inner-pic{
+				
+							background-position : 47.3568267822266% 15.6000003814697%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-g7vxwca8.inner-pic{
+				
+							background-position : 50% 22.7586212158203%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-1asozfmj.inner-pic{
+				
+							background-position : 49.1189422607422% 13.1999998092651%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-qzgzsknn.inner-pic{
+				
+							background-position : 46.4757690429688% 0%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-9furtbnk.inner-pic{
+				
+							background-position : 46.4757690429688% 0%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-cepwylmc.inner-pic{
+				
+							background-position : 39.9543380737305% 7.99086761474609%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-kwugqndh.inner-pic{
+				
+							background-position : 49.1189422607422% 13.1999998092651%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-5sgp4ios.inner-pic{
+				
+							background-position : 49.1189422607422% 13.1999998092651%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-kg8kycx3.inner-pic{
+				
+							background-position : 45.5172424316406% 0%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-rrw6bkdj.inner-pic{
+				
+							background-position : 44.7136573791504% 2%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-kcw0ytx4.inner-pic{
+				
+							background-position : 41.1894264221191% 9.19999980926514%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-cjp6mxb2.inner-pic{
+				
+							background-position : 42.9515419006348% 0%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-c3357cse.inner-pic{
+				
+							background-position : 49.1189422607422% 13.1999998092651%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-gontzflo.inner-pic{
+				
+							background-position : 29.7356834411621% 3.59999990463257%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-9pmaea3c.inner-pic{
+				
+							background-position : 49.1189422607422% 13.1999998092651%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-4tfqanef.inner-pic{
+				
+							background-position : 62.3348007202148% 3.59999990463257%;
+					
+				} .style-91295a50-t3smm9ru #vbid-91295a50-balnme33.inner-pic{
+				
+							background-position : 35.0220260620117% 0%;
+					
+				}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
