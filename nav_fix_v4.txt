@@ -1,0 +1,120 @@
+<script>
+/* ITB Local Fix: Navigation vbid -> real URLs [v4] */
+(function(){
+  "use strict";
+  /* 6 fitout projects in listing order — NO wrap-around */
+  var seq=[
+    "/equinix-office-fit-out/",
+    "/schlumberger-project/",
+    "/flutterwave-project/",
+    "/windsor-office-development/",
+    "/facebook-office/",
+    "/microsoft-adc/"
+  ];
+
+  function getIdx(){
+    var p=window.location.pathname.toLowerCase();
+    for(var i=0;i<seq.length;i++){
+      if(p.indexOf(seq[i].replace(/\//g,""))>=0) return i;
+    }
+    return -1;
+  }
+
+  /* Returns "prev" or "next" — 3 strategies */
+  function getDir(el){
+    /* 1. Text content walk */
+    var p=el;
+    for(var i=0;i<6&&p&&p!==document.body;i++){
+      var t=((p.innerText||p.textContent||"").replace(/[<>]/g,"").trim().toUpperCase());
+      if(t.indexOf("PREVIOUS")>=0||t.indexOf("PREV")>=0) return "prev";
+      if(t.indexOf("NEXT")>=0) return "next";
+      p=p.parentElement;
+    }
+    /* 2. Class/id walk */
+    p=el;
+    for(var j=0;j<8&&p&&p!==document.body;j++){
+      var cls=((p.id||"")+" "+(p.className||"")).toLowerCase();
+      if(/\b(prev|back|prior|arrow-l)/.test(cls)) return "prev";
+      if(/\b(next|forward|arrow-r)/.test(cls)) return "next";
+      p=p.parentElement;
+    }
+    /* 3. Position: left half = prev, right = next */
+    try{
+      var r=el.getBoundingClientRect();
+      return (r.left+r.width/2)<window.innerWidth/2 ? "prev" : "next";
+    }catch(e){ return "next"; }
+  }
+
+  /* Hide the button container when no prev/next available (first/last project) */
+  function hideNavBtn(el){
+    var p=el;
+    for(var i=0;i<5&&p&&p!==document.body;i++){
+      if(p.parentElement && p.parentElement.children.length<=3){
+        p.parentElement.style.cssText+="display:none!important;visibility:hidden!important;";
+        return;
+      }
+      p=p.parentElement;
+    }
+    /* fallback: hide the <a> itself */
+    el.style.cssText+="display:none!important;visibility:hidden!important;";
+  }
+
+  function fix(){
+    var idx=getIdx();
+    /* null = dead end (no wrap-around) */
+    var pv=idx>0 ? seq[idx-1] : null;
+    var nx=(idx>=0 && idx<seq.length-1) ? seq[idx+1] : null;
+
+    document.querySelectorAll("a[href]").forEach(function(a){
+      var h=a.getAttribute("href")||"";
+      if(!h.startsWith("/vbid-")&&h.indexOf("itbng.com/vbid-")<0) return;
+      /* Skip image gallery lightbox links — they must keep their vbid href */
+      if(a.getAttribute("data-link-type")==="LIGHTBOX") return;
+      var dir=getDir(a);
+      if(dir==="prev"){
+        if(pv) a.href=pv;
+        else hideNavBtn(a);
+      } else {
+        if(nx) a.href=nx;
+        else hideNavBtn(a);
+      }
+    });
+  }
+
+  window.addEventListener("load",function(){fix();setTimeout(fix,800);setTimeout(fix,2500);});
+  if(document.readyState!=="loading") fix();
+  else document.addEventListener("DOMContentLoaded",function(){
+    fix();
+    if(window.MutationObserver){
+      new MutationObserver(function(m){
+        if(m.some(function(x){return x.addedNodes.length>0;})) fix();
+      }).observe(document.body,{childList:true,subtree:true});
+    }
+  });
+
+  /* Click interceptor — capture phase, last line of defence */
+  document.addEventListener("click",function(e){
+    var el=e.target;
+    while(el&&el!==document.body){
+      if(el.tagName==="A"){
+        var h=el.getAttribute("href")||"";
+        if(h.startsWith("/vbid-")||h.indexOf("itbng.com/vbid-")>=0){
+          /* Never intercept lightbox image gallery clicks */
+          if(el.getAttribute("data-link-type")==="LIGHTBOX") return;
+          var idx2=getIdx();
+          var pv2=idx2>0 ? seq[idx2-1] : null;
+          var nx2=(idx2>=0&&idx2<seq.length-1) ? seq[idx2+1] : null;
+          e.preventDefault();e.stopPropagation();
+          var dir=getDir(el);
+          if(dir==="prev"&&pv2) window.location.href=pv2;
+          else if(dir==="next"&&nx2) window.location.href=nx2;
+          /* dead end: preventDefault already fired, do nothing */
+          return;
+        }
+      }
+      el=el.parentElement;
+    }
+  },true);
+
+})();
+</script>

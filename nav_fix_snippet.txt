@@ -1,0 +1,36 @@
+<script>
+/* ITB Local Fix: Navigation vbid -> real URLs */
+(function(){
+  var seq=["/equinix-office-fit-out/","/schlumberger-project/","/flutterwave-project/","/windsor-office-development/","/facebook-office/","/microsoft-adc/","/african-data-center/"];
+  function getIdx(){var p=window.location.pathname;for(var i=0;i<seq.length;i++){if(p.indexOf(seq[i].replace(/\//g,""))>=0)return i;}return -1;}
+  function fix(){
+    var i=getIdx(),pv=i>=0?seq[(i-1+seq.length)%seq.length]:"/fitout-projects/",nx=i>=0?seq[(i+1)%seq.length]:"/fitout-projects/";
+    document.querySelectorAll("a[href]").forEach(function(a){
+      var h=a.getAttribute("href")||"";
+      if(!h.startsWith("/vbid-")&&h.indexOf("itbng.com/vbid-")<0)return;
+      var t=(a.innerText||a.textContent||"").replace(/[<>]/g,"").trim().toUpperCase();
+      if(t.indexOf("PREVIOUS")>=0)a.href=pv;
+      else if(t.indexOf("NEXT")>=0)a.href=nx;
+    });
+  }
+  window.addEventListener("load",function(){fix();setTimeout(fix,800);setTimeout(fix,2500);});
+  if(document.readyState!=="loading")fix();
+  else document.addEventListener("DOMContentLoaded",function(){
+    fix();
+    if(window.MutationObserver){new MutationObserver(function(m){if(m.some(function(x){return x.addedNodes.length>0;}))fix();}).observe(document.body,{childList:true,subtree:true});}
+  });
+  document.addEventListener("click",function(e){
+    var el=e.target;while(el&&el.tagName!=="A")el=el.parentElement;
+    if(!el)return;
+    var h=el.getAttribute("href")||"";
+    if(h.startsWith("/vbid-")||h.indexOf("itbng.com/vbid-")>=0){
+      var i2=getIdx(),pv2=i2>=0?seq[(i2-1+seq.length)%seq.length]:"/fitout-projects/",nx2=i2>=0?seq[(i2+1)%seq.length]:"/fitout-projects/";
+      var t=(el.innerText||el.textContent||"").replace(/[<>]/g,"").trim().toUpperCase();
+      e.preventDefault();e.stopPropagation();
+      if(t.indexOf("PREVIOUS")>=0)window.location.href=pv2;
+      else if(t.indexOf("NEXT")>=0)window.location.href=nx2;
+      else window.location.href="/fitout-projects/";
+    }
+  },true);
+})();
+</script>

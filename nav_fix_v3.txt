@@ -1,0 +1,81 @@
+<script>
+/* ITB Local Fix: Navigation vbid -> real URLs [v3] */
+(function(){
+  "use strict";
+  var seq=["/equinix-office-fit-out/","/schlumberger-project/","/flutterwave-project/","/windsor-office-development/","/facebook-office/","/microsoft-adc/","/african-data-center/"];
+
+  function getIdx(){
+    var p=window.location.pathname.toLowerCase();
+    for(var i=0;i<seq.length;i++){
+      if(p.indexOf(seq[i].replace(/\//g,""))>=0) return i;
+    }
+    return -1;
+  }
+
+  /* Returns "prev" or "next" using 3 strategies in order */
+  function getDir(el){
+    /* 1. Walk up to 6 ancestors checking text content */
+    var p=el;
+    for(var i=0;i<6&&p&&p!==document.body;i++){
+      var t=((p.innerText||p.textContent||"").replace(/[<>]/g,"").trim().toUpperCase());
+      if(t.indexOf("PREVIOUS")>=0||t.indexOf("PREV")>=0) return "prev";
+      if(t.indexOf("NEXT")>=0) return "next";
+      p=p.parentElement;
+    }
+    /* 2. Check id/class of element and ancestors for prev/next keywords */
+    p=el;
+    for(var j=0;j<8&&p&&p!==document.body;j++){
+      var cls=((p.id||"")+" "+(p.className||"")).toLowerCase();
+      if(/\b(prev|back|left|prior|arrow-l)/.test(cls)) return "prev";
+      if(/\b(next|forward|right|arrow-r)/.test(cls)) return "next";
+      p=p.parentElement;
+    }
+    /* 3. Position: left half of viewport = prev, right = next */
+    try{
+      var r=el.getBoundingClientRect();
+      return (r.left+r.width/2)<window.innerWidth/2 ? "prev" : "next";
+    }catch(e){ return "next"; }
+  }
+
+  function fix(){
+    var i=getIdx();
+    var pv=i>=0?seq[(i-1+seq.length)%seq.length]:seq[seq.length-1];
+    var nx=i>=0?seq[(i+1)%seq.length]:seq[0];
+    document.querySelectorAll("a[href]").forEach(function(a){
+      var h=a.getAttribute("href")||"";
+      if(!h.startsWith("/vbid-")&&h.indexOf("itbng.com/vbid-")<0) return;
+      var dir=getDir(a);
+      a.href=(dir==="prev")?pv:nx;
+    });
+  }
+
+  window.addEventListener("load",function(){fix();setTimeout(fix,800);setTimeout(fix,2500);});
+  if(document.readyState!=="loading") fix();
+  else document.addEventListener("DOMContentLoaded",function(){
+    fix();
+    if(window.MutationObserver){
+      new MutationObserver(function(m){
+        if(m.some(function(x){return x.addedNodes.length>0;})) fix();
+      }).observe(document.body,{childList:true,subtree:true});
+    }
+  });
+
+  /* Click interceptor - last defence for dynamically driven navigation */
+  document.addEventListener("click",function(e){
+    var el=e.target;
+    while(el&&el!==document.body){
+      var h=(el.tagName==="A")?(el.getAttribute("href")||""):"";
+      if(h.startsWith("/vbid-")||h.indexOf("itbng.com/vbid-")>=0){
+        var i2=getIdx();
+        var pv2=i2>=0?seq[(i2-1+seq.length)%seq.length]:seq[seq.length-1];
+        var nx2=i2>=0?seq[(i2+1)%seq.length]:seq[0];
+        e.preventDefault();e.stopPropagation();
+        window.location.href=(getDir(el)==="prev")?pv2:nx2;
+        return;
+      }
+      el=el.parentElement;
+    }
+  },true);
+
+})();
+</script>
