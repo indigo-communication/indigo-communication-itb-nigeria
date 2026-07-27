@@ -6,6 +6,13 @@
 **Workspace:** `c:\Users\Alaa\Documents\githup\Selenium\itbng\`  
 **Completed:** February 7, 2026
 
+## Session Update - 2026-07-27
+
+- Problem: Careers page needed a new hiring announcement for Head Marine HSE Manager (Marine Construction).
+- Method: Updated the careers vacancy content block in `careers.html` and replaced the previous "not recruiting" message.
+- Results: The vacancy announcement now appears in the careers section with responsibilities, candidate profile, and application email.
+- Next steps: Validate visual spacing on desktop/mobile and publish according to deployment workflow.
+
 ---
 
 ## Project Context
@@ -681,3 +688,22 @@ After deployment to Namecheap:
 - [ ] No console errors (F12 DevTools)
 
 ---
+
+
+---
+
+## 🔧 Need to Add Backend/Admin Panel?
+
+If you need to add admin features to this project:
+**👉 See:** `../oakuralb/BACKEND_COMPLETE_GUIDE.md`
+
+**What's included:**
+- 1-hour backend setup roadmap (not 6+ hours)
+- Node.js + Express implementation
+- File locations and structure
+- Common mistakes to avoid
+- VPS deployment checklist
+- Troubleshooting guide
+
+**Reference Implementation:** `../oakuralb/` (Admin panel with menu editor)
+
