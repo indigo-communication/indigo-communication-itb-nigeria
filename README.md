@@ -13,6 +13,13 @@
 - Results: The vacancy announcement now appears in the careers section with responsibilities, candidate profile, and application email.
 - Next steps: Validate visual spacing on desktop/mobile and publish according to deployment workflow.
 
+## Session Update - 2026-07-27 (Git-Connected Deploy)
+
+- Problem: Connect production domain deployment to Git repository updates.
+- Method: Added a GitHub Actions workflow at `.github/workflows/deploy-live-main.yml` to deploy on pushes to `main` via FTP/FTPS.
+- Results: Deployment automation file is ready; requires repository secrets before first run.
+- Next steps: Add GitHub Secrets, merge this workflow to `main`, then push to `main` to trigger first live deploy.
+
 ---
 
 ## Project Context
